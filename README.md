@@ -11,9 +11,8 @@
 
 Oversampling Model:
 
-<img width="533" alt="Screen Shot 2022-05-25 at 2 08 07 PM" src="https://user-images.githubusercontent.com/95730183/170358553-f84a9517-9131-4a87-946d-666788d2a2c1.png">
 
-
+<img width="710" alt="Screen Shot 2022-05-25 at 2 12 02 PM" src="https://user-images.githubusercontent.com/95730183/170359136-75b506b0-1b88-4b13-b50f-8e91e7d2e843.png">
 
 
 
@@ -24,7 +23,8 @@ Oversampling Model:
 
 SMOTE Oversampling:
 
-<img width="537" alt="Screen Shot 2022-05-25 at 2 08 21 PM" src="https://user-images.githubusercontent.com/95730183/170358603-a93901e2-e5eb-461d-a07a-5a336a47e6cf.png">
+<img width="704" alt="Screen Shot 2022-05-25 at 2 12 14 PM" src="https://user-images.githubusercontent.com/95730183/170359165-1edb560b-b8e4-4751-ab1e-9151e57be158.png">
+
 
 
 Udersampling:
