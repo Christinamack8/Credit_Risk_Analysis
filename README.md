@@ -25,6 +25,8 @@ SMOTE Oversampling
 
 Udersampling:
 
+### Balanced Random Forest Classifier:
+
 <img width="806" alt="Screen Shot 2022-05-25 at 2 00 19 PM" src="https://user-images.githubusercontent.com/95730183/170357534-92eb5cdb-2e7f-4e68-a986-ad96dd252902.png">
 
 
