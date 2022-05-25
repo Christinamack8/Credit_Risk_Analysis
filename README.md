@@ -14,10 +14,24 @@ Oversampling Model:
 
 
 
+
+
+
 SMOTE Oversampling
 
 
+
+
+
 Udersampling:
+
+<img width="806" alt="Screen Shot 2022-05-25 at 2 00 19 PM" src="https://user-images.githubusercontent.com/95730183/170357534-92eb5cdb-2e7f-4e68-a986-ad96dd252902.png">
+
+
+<img width="801" alt="Screen Shot 2022-05-25 at 1 59 57 PM" src="https://user-images.githubusercontent.com/95730183/170357589-a9ad7ca8-ce4e-4bf4-912c-50167f667462.png">
+
+
+
 
 
 
