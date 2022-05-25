@@ -11,6 +11,8 @@
 
 Oversampling Model:
 
+### Naive Random Oversampling:
+
 
 <img width="710" alt="Screen Shot 2022-05-25 at 2 12 02 PM" src="https://user-images.githubusercontent.com/95730183/170359136-75b506b0-1b88-4b13-b50f-8e91e7d2e843.png">
 
@@ -21,7 +23,7 @@ Oversampling Model:
 
 
 
-SMOTE Oversampling:
+### SMOTE Oversampling:
 
 <img width="704" alt="Screen Shot 2022-05-25 at 2 12 14 PM" src="https://user-images.githubusercontent.com/95730183/170359165-1edb560b-b8e4-4751-ab1e-9151e57be158.png">
 
