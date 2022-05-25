@@ -11,16 +11,20 @@
 
 Oversampling Model:
 
+<img width="533" alt="Screen Shot 2022-05-25 at 2 08 07 PM" src="https://user-images.githubusercontent.com/95730183/170358553-f84a9517-9131-4a87-946d-666788d2a2c1.png">
 
 
 
 
 
 
-SMOTE Oversampling
 
 
 
+
+SMOTE Oversampling:
+
+<img width="537" alt="Screen Shot 2022-05-25 at 2 08 21 PM" src="https://user-images.githubusercontent.com/95730183/170358603-a93901e2-e5eb-461d-a07a-5a336a47e6cf.png">
 
 
 Udersampling:
